@@ -31,7 +31,7 @@ AUTHENTICATION_BACKENDS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = '6(994t_e+5ektmh+6b&ki0y7_%$-aj6n-lbojmxm3h-551pdvk'
+SECRET_KEY = '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'
 
 # Configure the database (see Django documentation for more details)
 # For testing environments, leave as is.
